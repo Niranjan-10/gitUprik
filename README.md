@@ -1,1 +1,2 @@
 # gitUprik
+checkout developer branch
